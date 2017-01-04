@@ -23,7 +23,7 @@ import com.harpribot.kaggle.leafclassify.model._
 import java.io.File
 
 /**
- * @author ${user.name}
+ * @author Harshal Priyadarshi (harpribot)
  */
 object App {
   lazy val log: Logger = LoggerFactory.getLogger(App.getClass)
